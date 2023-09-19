@@ -1,0 +1,11 @@
+C:\Users\HAMI-PARS\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\HAMI-PARS\source\repos\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\HAMI-PARS\source\repos\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\HAMI-PARS\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+C:\Users\HAMI-PARS\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAMI-PARS\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\HAMI-PARS\source\repos\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\HAMI-PARS\source\repos\Tasks\Tasks\obj\Debug\Tasks.pdb
+C:\Users\HAMI-PARS\source\repos\Tasks\Tasks\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAMI-PARS\source\repos\Tasks\Tasks\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAMI-PARS\source\repos\Tasks\Tasks\obj\Debug\Tasks.csproj.CopyComplete
